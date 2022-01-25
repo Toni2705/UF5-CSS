@@ -1,0 +1,36 @@
+body {
+    width: 100%;
+}
+header {
+    background-color: red;
+    height: 100px;
+    margin-bottom: -5px;
+    margin-right: 20px;
+}
+#body {
+    margin-right: 20px;
+}
+#content {
+    margin-left: 245px;
+}
+aside {
+    background-color: greenyellow;
+    float: left;
+    height: 330px;
+}
+nav {
+    background-color: cyan;
+    height: 50px;
+    margin-bottom: -5px;
+}
+article {
+    background-color: yellow;;
+    height: 270px;
+}
+footer {
+    background-color: rebeccapurple;
+    height: 50px;
+    margin-top: -5px;
+    margin-right: 20px;
+    color: white;
+}

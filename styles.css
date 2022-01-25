@@ -1,0 +1,234 @@
+body {
+    background-color: silver;
+    
+}
+.cuadrado {
+    width: 25em;
+    height: 17.5em;
+    background-color: red;
+    /* centrar*/
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#a {
+    background-color: red;
+    width: 12.5em;
+    height: 4.375em; 
+    float: left;
+}
+#b {
+    background-color: blue;
+    width: 12.5em;
+    height: 4.375em;
+    float: right;
+}
+#c {
+    background-color: yellow;
+    width: 6.25em;
+    height: 8.75em;
+    float: left;
+}
+#d {
+    background-color: #390D6E;
+    width: 6.25em;
+    height: 4.375em;
+    float: left;
+}
+#e {
+    background-color: darkblue;
+    width: 12.5em;
+    height: 4.375em;
+    float: right;
+}#f {
+    background-color: palevioletred;
+    width: 6.25em;
+    height: 4.375em;
+    float: left;
+}
+#g {
+    background-color: yellow;
+    width: 6.25em;
+    height: 4.375em;
+    float: left;
+}
+#h {
+    background-color: white;
+    width: 6.25em;
+    height: 4.375em;
+    float: right;
+}
+#i {
+    background-color: #6662E0;
+    width: 6.25em;
+    height: 4.375em;
+    float: left;
+}
+#j {
+    background-color: saddlebrown;
+    width: 6.25em;
+    height: 4.375em;
+    float: left;
+}
+#k {
+    background-color: red;
+    width: 6.25em;
+    height: 4.375em;
+    float: left;
+}
+#l {
+    background-color: brown;
+    width: 6.25em;
+    height: 4.375em;
+    float: right;
+}
+/* Mondrian2 */
+.picasso {
+    display: flex;
+    flex-direction: row;
+    width: 24.4em;
+    height: 17.5em;
+    background-color: hotpink;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.izquierda1 {
+    background-color: white;
+    border-right: black solid 5px;
+    height: 280px;
+    width: 50px;
+}
+#ac {
+    border-bottom: solid black 5px; 
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+#ad {
+    border-bottom: solid black 5px; 
+    width: 50px;
+    height: 150px;
+    float: left;
+}
+#ae {
+    border-bottom: solid black 5px; 
+    width: 50px;
+    height: 25px;
+    float: left;
+}
+#af { 
+    width: 50px;
+    height: 30px;
+    float: left;
+}
+.izquierda2 {
+    background-color: yellow;
+    border-right: solid black 5px;
+    width: 80px;
+    height: 280px;
+}
+#ag {
+    width: 80px;
+    height: 280px;
+    float: left;
+}
+.izquierda3 {
+    background-color: yellow;
+    border-right: solid black 5px;
+    width: 80px;
+    height: 280px;
+}
+#ah {
+    width: 80px;
+    height: 75px;
+    background-color: cyan;
+    border-bottom: solid black 5px;
+}
+.medio {
+    background-color: red;
+    border-right: solid black 5px;
+    width: 80px;
+    height: 280px;
+}
+#aj {
+    background-color: red;
+    width: 80px;
+    height: 150px;
+    border-bottom: solid black 5px;
+}
+#ak {
+    width: 37px;
+    height: 30px;
+    border-bottom: solid black 5px;
+    border-right: solid black 5px;
+    float: left;
+}
+#al {
+    width: 38px;
+    height: 30px;
+    border-bottom: solid black 5px;
+    float: right;
+}
+#am {
+    width: 37px;
+    height: 90px;
+    background-color: cyan;
+    float: left;
+    border-right: solid black 5px;
+}
+.derecha2 {
+    background-color: yellow;
+    width: 80px;
+    height: 280px;
+}
+#ao {
+    border-bottom: solid black 5px;
+    height: 50px;
+    width: 37px;
+    border-right: solid black 5px;
+    float: left;
+}
+#ap {
+    height: 22px;
+    width: 38px;
+    border-bottom: solid black 5px;
+    float: right;
+}
+#aq {
+    height: 22px;
+    width: 38px;
+    border-bottom: solid black 5px;
+    float: right;
+    background-color: red;
+}
+#ar {
+    height: 23px;
+    width: 37px;
+    border-bottom: solid black 5px;
+    border-right: solid black 5px;
+    float: left;
+    background-color: white;
+}
+#as {
+    height: 23px;
+    width: 38px;
+    border-bottom: solid black 5px;
+    float: right;
+    background-color: white;
+}
+#at {
+    height: 75px;
+    width: 80px;
+    border-bottom: solid black 5px;
+    background-color: red;
+    float: left;
+}
+#au {
+    height: 118px;
+    width: 37px;
+    border-right: solid black 5px;
+    float: left;
+}

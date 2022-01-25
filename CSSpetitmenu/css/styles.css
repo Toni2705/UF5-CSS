@@ -1,0 +1,6 @@
+li {background-color: blue; color: white;}
+li {list-style-type: none;width: 7.5em; text-align: center;margin: 0.625em;}
+.A {border: 0.1875em solid blue}
+.A:hover {border:0.1875em solid red;}
+.B {background-color: green; border: 0.1875em solid green;}
+.B:hover {background-color: grey;border: 0.1875em solid red;color: black;}

@@ -1,0 +1,15 @@
+body {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 19px;background-image: url(../img/IMAGEN.png);background-size: 2300px;}
+table {width: 70%;}
+.p1 {background-color:red;}
+.p2 {background-color:orange;}
+.p3 {background-color:yellow;}
+.p4 {background-color:greenyellow;}
+.p5 {background-color: green;}
+.p6 {background-color:cyan;}
+.p7 {background-color: blue;}
+.p8 {background-color: blueviolet;}
+.p9 {background-color: violet;}
+.p10 {background-color: dimgrey;}
+p:hover {background-color:teal;}
+.abajo {text-decoration: underline;}
+.arriba {text-decoration: overline;}
